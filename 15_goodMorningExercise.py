@@ -1,0 +1,1 @@
+# use time module and then print good morning, good afternoon and good evening according to that 
