@@ -4,6 +4,9 @@
 def calculateSI(p,r,t):
     return (p*r*t)/100
 
+def calculateCI(p,r,t):
+    pass #pass keyword helps us to define a prototype of a function which you might want to define later on in the future
+
 
 names = ["Deependra","Ravi","Sohan"]
 interests = {}
