@@ -34,7 +34,7 @@ s1.discard(99)
 print("Elements removed from s1: ", s1)
 
 item = s1.pop()
-print("Last element popped from s1 but, we don't know what is popped😅😅: ", s1)
+print("Last element popped from s1 but, we don't know what is popped😅😅: ", s1, end="\n")
 print("Item popped is: ", item)
 
 # using if else to check whether an element is present in the set or not 
